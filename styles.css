@@ -34,7 +34,7 @@ header {
   margin: 16px;
   border: 2px dashed #ccc;
 }
-.demo.selected {
+.active {
   background: gainsboro;
   border-color: #4338ca;
   /* add a nice blue glow: */
